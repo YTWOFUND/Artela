@@ -46,7 +46,7 @@ cd $HOME
 cd && rm -rf artela
 git clone https://github.com/artela-network/artela
 cd artela
-git checkout v0.4.7-rc6
+git checkout v0.4.7-rc7-fix-execution
 ```
 
 ### Build binaries
@@ -176,7 +176,7 @@ artelad tx staking create-validator \
 There have been no updates at the moment, as soon as they come out, we will immediately add them to this section.
 
 Current network:artela_11822-1
-Current version:v0.4.7-rc6
+Current version:v0.4.7-rc7-fix-execution
 ```
 
 ### Useful commands
